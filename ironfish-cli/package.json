@@ -64,7 +64,7 @@
     "@oclif/core": "1.23.1",
     "@oclif/plugin-help": "5.1.12",
     "@oclif/plugin-not-found": "2.3.1",
-    "@oclif/plugin-warn-if-update-available": "2.0.40",
+    "@oclif/plugin-warn-if-update-available": "3.0.1",
     "@types/tar": "6.1.1",
     "axios": "0.21.4",
     "bech32": "2.0.0",
@@ -75,7 +75,7 @@
     "inquirer": "8.2.5",
     "json-colorizer": "2.2.2",
     "supports-hyperlinks": "2.2.0",
-    "tar": "6.1.11",
+    "tar": "7.5.4",
     "uuid": "8.3.2"
   },
   "oclif": {
